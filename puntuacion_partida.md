@@ -60,3 +60,5 @@ Valoración: Buen resultado
 - Gestiona la entrada y la salida en `main()`; las funciones auxiliares devuelven sus resultados con `return`.
 - Incluye la guarda de ejecución.
 - Entrega un repositorio PÚBLICO con el nombre `2627-PR-U1-usarioPasen-partida` y tu solución.
+
+**[Volver](README.md)**
